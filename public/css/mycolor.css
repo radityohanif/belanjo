@@ -1,0 +1,11 @@
+.alert-danger{
+	background: red;
+	color: white;
+	border: none;
+}
+
+.alert-success{
+	background: limegreen;
+	color: white;
+	border: none;
+}

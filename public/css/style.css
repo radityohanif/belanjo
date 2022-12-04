@@ -1,0 +1,46 @@
+
+footer{
+	background: black;
+	color: white;
+	margin-top: 4rem;
+}
+.btn-green{
+	background: limegreen;
+	color: white;
+}
+.btn:hover{
+	color: white;
+}
+
+/* My Margin Top Class*/
+.mt-6{
+	margin-top: 6rem;
+}
+.mt-7{
+	margin-top: 7rem;
+}
+.mt-8{
+	margin-top: 8rem;
+}
+.mt-9{
+	margin-top: 9rem;
+}
+.mt-9{
+	margin-top: 10rem;
+}
+
+/* Card Style */
+.card{
+	width: 12rem; 
+	float: left; 
+	margin-right: 10px; 
+	margin-top: 10px;
+}
+
+.card-img-top{
+	width: 100%; 
+}
+
+.text-green{
+	color: limegreen;
+}
